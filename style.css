@@ -1,0 +1,136 @@
+body{
+    font-family: montserrat;
+    background: rgb(250, 247, 234);
+}
+ul{
+    list-style-type: none;
+    margin-top:40px;
+    font-weight: bold;
+}
+li{
+    float: right;
+    padding-right:40px;
+    font-size: 23px;
+}
+a{
+    text-decoration: none;
+    color: rgb(107, 97, 97);
+}
+.nav{
+    height:10vh;
+    width:100%;
+}
+
+.first-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:0px 40px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.first-section p{
+    font-size: 30px;
+    max-width: 75%;
+    font-style: normal;
+    font-weight: bolder;
+    color: rgb(133, 124, 124);
+}
+
+.first-section h1{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.photo{
+    border-radius: 50%;
+    margin-right: 20%;
+    height: 25rem;
+    margin-top: 30px;
+ }
+
+ #about{
+    height: 70vh;
+    width: 100%;
+    background-color: rgb(216, 178, 197);
+    margin-top: 128px;
+    
+ }
+
+ #about p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+    font-size: 20px;
+    margin-bottom: none;
+    font-weight: bold;
+ }
+
+ #about p2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    max-width: 75%;
+    margin-left: 210px;
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+ }
+
+ #about p1{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 80px;
+    font-size: 30px;
+    font-weight: bolder;
+ }
+
+ #skills{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+    margin-right: 130px;
+    margin-bottom: 40px;
+ }
+
+ .para{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 75px;
+    font-weight: bold;
+    font-size: 35px;
+ }
+
+.footer{
+    list-style-type: none;
+    background: darkgray ;
+    height:15vh;
+    width: 100%;
+
+}
+
+.insta{
+    height: 40px;
+    width:40px;
+    margin-top: 30px;
+}
+
+.git{
+    height: 40px;
+    width:40px;
+    margin-top: 30px;
+}
+
+.ath{
+    height: 40px;
+    width:40px;
+    margin-top: 30px;
+}
+
